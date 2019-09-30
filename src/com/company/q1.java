@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class q1 {
 
     public static void main(String[] args) {
-        int tam = 3;
+        int tam = 30;
         int[] qtdFrango = new int[tam];
         int[] qtdMisto = new int[tam];
         int menorFrango = 0, menorMisto = 0;
